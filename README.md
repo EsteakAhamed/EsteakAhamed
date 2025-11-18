@@ -15,7 +15,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-Hi! I'm **Md. Esteak Ahamed** — a curious builder who loves turning ideas into clean, functional, and user-friendly applications.
+Hi! I'm **Md. Esteak Ahamed** — a student and curious learner who loves turning ideas into clean, functional, and user-friendly applications.
 
 - 🎓 **CSE Student** at AIUB, Dhaka
 - 💻 **Backend-Focused Full Stack Developer**
@@ -63,6 +63,7 @@ Hi! I'm **Md. Esteak Ahamed** — a curious builder who loves turning ideas into
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🎨 Frontend
 <!-- Where design meets functionality. -->
