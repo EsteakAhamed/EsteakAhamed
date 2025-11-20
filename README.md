@@ -17,14 +17,14 @@
 
 Hi! I'm **Md. Esteak Ahamed** — a student and curious learner who loves turning ideas into clean, functional, and user-friendly applications.
 
-- 🎓 **CSE Student** at AIUB, Dhaka
-- 💻 **Backend-Focused Full Stack Developer**
-- 🧩 Passionate about **Problem Solving** & **Competitive Programming**
-- 🔭 Currently building a **Hospital Management System** with Nest.js + Next.js + PostgreSQL
-- 🌱 Learning **Machine Learning** and improving **LaTeX** skills
-- 🛠️ Testing & refining REST APIs using Postman
-- 🤔 Enjoy fixing bugs that *were working a minute ago* 😅
-- 💬 Ask me about **Web Development, APIs, Databases, or CP**
+- **CSE Student** at AIUB, Dhaka
+- **Backend-Focused Full Stack Developer**
+- Passionate about **Problem Solving** & **Competitive Programming**
+- Currently building a **Hospital Management System** with Nest.js + Next.js + PostgreSQL
+- Learning **Machine Learning** and improving **LaTeX** skills
+- Testing & refining REST APIs using Postman
+- Enjoy fixing bugs that *were working a minute ago* 😅
+- Ask me about **Web Development, APIs, Databases, or CP**
 
 <br clear="right"/>
 
@@ -32,18 +32,18 @@ Hi! I'm **Md. Esteak Ahamed** — a student and curious learner who loves turnin
 
 ## 🚀 Current Projects & Learning
 
-### 🏥 Hospital Management System
+### Hospital Management System
 <!-- Building scalable healthcare solutions -->
 - **Stack:** Nest.js + Next.js + PostgreSQL
 - **Features:** REST APIs, Auth, Database Design
 - **Status:** 🔨 In Development
 
-### 📚 Learning Path
+### Learning Path
 <!-- Always learning. Always building. -->
-- 🤖 Machine Learning (Beginner)
-- 📄 LaTeX for Academic Writing
-- 🧩 Advanced DSA & CP
-- 🔧 Backend Refactoring & System Design
+- Machine Learning (Beginner)
+- LaTeX for Academic Writing
+- Advanced DSA & CP
+- Backend Refactoring & System Design
 
 ---
 
