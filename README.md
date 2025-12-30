@@ -1,11 +1,11 @@
 <!-- Header with Typing Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0080FF&height=200&section=header&text=Esteak%20Ahamed&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend-Focused%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0080FF&height=200&section=header&text=Esteak%20Ahamed&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=CSE+Student+%40+AIUB;Backend+Developer+%7C+Problem+Solver;MERN+%7C+Next.js+%7C+Nest.js+Developer;Competitive+Programming+Enthusiast)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=CSE+Student+%40+AIUB;Full-Stack+Developer+%7C+Problem+Solver;MERN+%7C+Next.js+%7C+Nest.js+Developer)](https://git.io/typing-svg)
   
 </div>
 
@@ -18,8 +18,8 @@
 Hi! I'm **Md. Esteak Ahamed** — a student and curious learner who loves turning ideas into clean, functional, and user-friendly applications.
 
 - **CSE Student** at AIUB, Dhaka
-- **Backend-Focused Full Stack Developer**
-- Passionate about **Problem Solving** & **Competitive Programming**
+- **Full-Stack Developer**
+- Passionate about **Problem Solving** 
 - Currently building a **Hospital Management System** with Nest.js + Next.js + PostgreSQL
 - Learning **Machine Learning** and improving **LaTeX** skills
 - Testing & refining REST APIs using Postman
