@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -30,7 +30,7 @@ Hi! I'm **Md. Esteak Ahamed** — a student and curious learner who loves turnin
 
 ---
 
-## 🚀 Current Projects & Learning
+## Current Projects & Learning
 
 ### Hospital Management System
 <!-- Building scalable healthcare solutions -->
@@ -47,13 +47,13 @@ Hi! I'm **Md. Esteak Ahamed** — a student and curious learner who loves turnin
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <!-- The tools I use to build. -->
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 <!-- Fluent in logic. -->
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -65,7 +65,7 @@ Hi! I'm **Md. Esteak Ahamed** — a student and curious learner who loves turnin
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🎨 Frontend
+### Frontend
 <!-- Where design meets functionality. -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -74,20 +74,20 @@ Hi! I'm **Md. Esteak Ahamed** — a student and curious learner who loves turnin
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### ⚙️ Backend
+### Backend
 <!-- Building the invisible engine. -->
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 <!-- Where data lives. -->
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 🔧 Tools & Others
+### Tools & Others
 <!-- The essentials. -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -97,7 +97,7 @@ Hi! I'm **Md. Esteak Ahamed** — a student and curious learner who loves turnin
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-### ☁️ Deployment & Hosting
+### Deployment & Hosting
 <!-- Ship it. -->
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -108,7 +108,7 @@ Hi! I'm **Md. Esteak Ahamed** — a student and curious learner who loves turnin
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <!-- Numbers tell stories. -->
 
@@ -125,13 +125,13 @@ Hi! I'm **Md. Esteak Ahamed** — a student and curious learner who loves turnin
 ---
 
 
-## 🎯 Focus Areas
+## Focus Areas
 
 <!-- What drives me. -->
 
 <div align="center">
 
-| 🧠 Competitive Programming | 🎓 Academic Projects | 🔬 Research & ML | 🌐 Full Stack Development |
+| Competitive Programming | Academic Projects | Research & ML | Full Stack Development |
 |:---:|:---:|:---:|:---:|
 | C++, C | C++, C#, Java | Python, R | MERN, Next.js, Nest.js |
 | Problem Solving | OOP Design | Data Science | REST APIs, Databases |
@@ -140,7 +140,7 @@ Hi! I'm **Md. Esteak Ahamed** — a student and curious learner who loves turnin
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <!-- Let's build something together. -->
 
@@ -153,7 +153,7 @@ Hi! I'm **Md. Esteak Ahamed** — a student and curious learner who loves turnin
 
 ---
 
-## 💭 Dev Quote
+## Dev Quote
 
 <!-- Words that resonate. -->
 
@@ -167,7 +167,7 @@ Hi! I'm **Md. Esteak Ahamed** — a student and curious learner who loves turnin
 
 <div align="center">
   
-  ### 💬 Always happy to connect, discuss ideas, or collaborate on cool projects!
+  ### Always happy to connect, discuss ideas, or collaborate on cool projects!
   
   ![Profile Views](https://komarev.com/ghpvc/?username=EsteakAhamed&color=00D9FF&style=for-the-badge&label=Profile+Views)
   
